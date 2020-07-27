@@ -1,4 +1,7 @@
-.classpath
+git.classpath
 .project
 .settings
 bin
+/out/
+/SeleniumTest.iml
+/.idea/
