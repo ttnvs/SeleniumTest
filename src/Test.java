@@ -4,8 +4,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Test {
 
-	public static void main(String[] args) throws InterruptedException {
-		System.setProperty("webdriver.chrome.driver", "resources\\chromedriver_v84.exe");
+	public static void main(String[] args) {
+		System.setProperty("webdriver.chrome.driver", "resources\\chromedriver_v85.exe");
 		WebDriver driver = new ChromeDriver();
 		
 		//Please write your code here
